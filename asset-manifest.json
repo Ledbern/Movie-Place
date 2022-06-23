@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-Place/static/css/main.e8cca6a3.css",
+    "main.js": "/Movie-Place/static/js/main.bec09413.js",
+    "index.html": "/Movie-Place/index.html",
+    "main.e8cca6a3.css.map": "/Movie-Place/static/css/main.e8cca6a3.css.map",
+    "main.bec09413.js.map": "/Movie-Place/static/js/main.bec09413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cca6a3.css",
+    "static/js/main.bec09413.js"
+  ]
+}
